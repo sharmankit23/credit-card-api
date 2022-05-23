@@ -1,0 +1,9 @@
+//Additinal Tasks
+
+bootJar {
+
+	baseName="app"
+	
+	rootSpec.exclude("/application.properties")
+
+}
